@@ -9,3 +9,5 @@ Firstly find your github avatar which is on
 right corner of your web page. Click '+' icon
 which is beside of it and then choose create 
 new reposiry
+ 
+So do you understand?
